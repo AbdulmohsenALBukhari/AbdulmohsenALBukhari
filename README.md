@@ -9,7 +9,7 @@ I graduated with a Bachelor's degree in Information Systems, Interested in mobil
 	- JAVA  ❤️
 	- PHP
 	- Some SQL
-- **Frontend Development**
+- **Tools Development**
 	- HTML, CSS and PHP :white_check_mark:
 	- ANDROID STUDIO :white_check_mark:
 	- Laravel
