@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AbdulmohsenALBukhari&label=Profile%20views&color=b40e0e&style=flat" alt="AbdulmohsenALBukhari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbdulmohsenALBukhari&theme=onedark" alt="AbdulmohsenALBukhari" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbdulmohsenALBukhari&theme=onedark" alt="AbdulmohsenALBukhari" /></a> </p>
 
 - 🔭 I’m currently working on **an e-commerce application using ASP.NET Core**
 
